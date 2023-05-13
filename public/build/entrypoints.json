@@ -1,0 +1,9 @@
+{
+  "entrypoints": {
+    "style": {
+      "css": [
+        "/build/style.css"
+      ]
+    }
+  }
+}
