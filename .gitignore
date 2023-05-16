@@ -19,5 +19,12 @@
 /phpunit.xml
 ###< symfony/phpunit-bridge ###
 
+###> symfony/webpack-encore-bundle ###
 /node_modules/
 .env
+/public/build/
+npm-debug.log
+yarn-error.log
+###< symfony/webpack-encore-bundle ###
+
+.idea/
