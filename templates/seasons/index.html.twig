@@ -8,8 +8,12 @@
 <ul class="list-group">
     {% for season in seasons %}
     <li class="list-group-item d-flex justify-content-between align-items-center">
-        Temporada {{ season.number }}
-        <span class="badge bg-secondary">{{ season.episodes|length }}</span>
+        <a href="{{ path('app_episodes', {season: season.id}) }}">
+            Temporada {{ season.number }}
+        </a>
+        <span class="badge bg-secondary">
+            {{ season.watchedEpisodes|length }} / {{ season.episodes|length }}
+        </span>
     </li>
     {% endfor %}
 </ul>
