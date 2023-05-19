@@ -2,6 +2,10 @@
 
 Projeto realizado durante os cursos da Alura, na formação [Symfony e Doctrine: crie aplicações web em PHP](https://cursos.alura.com.br/formacao-symfony-e-doctrine)
 * [Symfony Framework: criando uma aplicação com MVC](https://cursos.alura.com.br/course/symfony-framework-criando-aplicacao-mvc)
+* [Symfony Framework: formulários, validação e sessão](https://cursos.alura.com.br/course/symfony-framework-formularios-validacao-sessao)
+* [Symfony Framework: cache e segurança](https://cursos.alura.com.br/course/symfony-framework-cache-seguranca)
+* [Symfony Framework: e-mail, processamento assíncrono, uploads e testes](https://cursos.alura.com.br/course/symfony-framework-e-mail-processamento-assincrono-uploads-testes)
+
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -22,3 +26,9 @@ Projeto realizado durante os cursos da Alura, na formação [Symfony e Doctrine:
 * Separar o código em views usando Twig
 * Aprender a lidar com front-end usando Symfony Encore
 * Gerenciar o banco de dados com Doctrine ORM
+* Praticar a injeção de dependências
+* Aprender a manipular sessões com Symfony
+* Conhecer o componente Symfony Forms
+* Aprender a usar cache com Symfony
+* Entender como funciona autenticação no Symfony
+* Realizar controle de acesso com o componente de segurança do Symfony
